@@ -2,7 +2,7 @@ function findTheOldest() {
   let people = [
         {
           name: "Carly",
-          yearOfBirth: 1066,
+          yearOfBirth: 2018,
           yearOfDeath: 0,
         },
         {
